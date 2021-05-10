@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.gb.v.org.gb.v.GK">
+    <item
+        android:id="@+id/action_change_pin"
+        android:enabled="true"
+        android:orderInCategory="101"
+        android:title="Change PIN"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_change_url"
+        android:enabled="true"
+        android:orderInCategory="101"
+        android:title="Change URL"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_stop"
+        android:enabled="true"
+        android:orderInCategory="101"
+        android:title="Stop"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_change_name"
+        android:enabled="true"
+        android:orderInCategory="101"
+        android:title="Change name"
+        app:showAsAction="never"/>
+
+
+</menu>
