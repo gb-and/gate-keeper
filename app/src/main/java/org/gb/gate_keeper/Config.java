@@ -27,13 +27,13 @@ public class Config {
     private final String KEY_NAME="name";
 
 
-    public String url = "https://github.com/min-gb/gk";
+    public String url = "https://github.com/gb-and/gate-keeper";
     public String pin = "1234";
     public String name = "Gate Keeper 6.9";
 
     private final static String FILE_NAME = "conf.prop";
     private final static String DEFAULT_NAME = "Gate Keeper 6.9";
-    private final static String DEFAULT_URL =  "https://github.com/min-gb/gk";
+    private final static String DEFAULT_URL =  "https://github.com/gb-and/gate-keeper";
     private final static String DEFAULT_PIN = "1234";
     private File fileDirectory;
     private Context ctx;

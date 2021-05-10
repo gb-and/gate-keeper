@@ -12,3 +12,5 @@ The program was written by me from scratch from similar closed program version w
 
 Please send your remarks to the program on e-mail: grzegorz.bylica@gmail.com.
 in the title gate-keeper.
+
+Default PIN - 1234
